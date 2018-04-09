@@ -1,3 +1,5 @@
+//MAPS BRANCH - TESTING TO IMPLEMENT GOOGLE MAPS
+
 import React, { Component } from 'react';
 import { Text, View } from 'react-native';
 import { Header, Button, CardSection } from './components/common';
@@ -11,7 +13,7 @@ class StartScreen extends React.Component {
         return (
             <View>
                 <Header headerText="runRouter" />
-                <Text> Let do this </Text>
+                <Text> MAPS </Text>
                 <CardSection>
                     <Button onPress={this.showMore}> Test2 </Button>
                 </CardSection>
