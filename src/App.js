@@ -6,10 +6,9 @@ const App = () => {
     return(
     <View>
         <Header headerText="runRouter" />
-        <Text> Let do this </Text>
+        <Text> Jennys branch </Text>
     </View>
     );
 }
 
 export default App;
-

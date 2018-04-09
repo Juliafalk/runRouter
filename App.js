@@ -1,3 +1,5 @@
+//denna fil används inte - vi använder './src/App' istället!
+
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
