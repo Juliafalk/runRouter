@@ -1,0 +1,1 @@
+//För ikonen/logga för vår app.
