@@ -1,1 +1,1 @@
-//För ikonen/logga för vår app.
+//För att lägga in som ikoner 
